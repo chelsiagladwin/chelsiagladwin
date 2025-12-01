@@ -1,5 +1,5 @@
-## Hi there 👋
-I’m Chelsia Gladwin, a 3rd year Computer Science Engineering student exploring the world of software development.
+## Hi there, I'm Chelsia Gladwin👋
+Computer Science Engineering student exploring the world of software development.
 I’m still a beginner in tech projects, but I’m excited to learn, collaborate, and build amazing things with the GitHub community.
 
 🔥 What I’m currently working on
