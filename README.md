@@ -19,8 +19,7 @@ If you have any beginner-friendly issues or project ideas, feel free to reach ou
 - Improve coding skills
 - Build real-world projects
 - Contribute to open-source
-  # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+  
 
 
 ## 🌐 Socials:
